@@ -1,3 +1,3 @@
 # coding-challenges
 
-A mix of coding challenges completed from various sites.
+A mix of coding challenges completed from various challenge, practice, and interview sites.
